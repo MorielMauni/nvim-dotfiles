@@ -1,16 +1,3 @@
-
--- vim.o.clipboard = 'unnamedplus' -- Sync clipboard from OS and Neovim
--- vim.o.wrap = false -- Displaly lines as one long line
--- vim.o.linebreak = true -- Don't split words
--- vim.o.mouse = 'a' -- Enable mouse mode
--- vim.o.autoindent = true -- Auto indent for the line after creating a new one
--- vim.o.ignorecase = true -- Case insensitive
--- vim.o.smartcase = true -- Smart case
--- vim.o.shiftwidth = 4 -- spaces in indention
--- vim.o.tabstop = 4 -- namber of spaces in tab
--- vim.o.softtabstop = 4
--- vim.o.expandtab = true -- conbert tabs to spaces
-
 vim.o.hlsearch = false -- Set highlight on search
 vim.wo.number = true -- Make line numbers default
 vim.o.mouse = 'a' -- Enable mouse mode
